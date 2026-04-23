@@ -1,0 +1,27 @@
+Security Policy
+
+Last updated: April 2026
+
+1. Security Approach
+
+BrewStation is designed to operate entirely on the user’s device without requiring internet connectivity or external communication.
+
+2. Local Data Handling
+
+All application data, settings, and saved states remain stored locally on the user’s device. No data is transmitted to external servers or third parties.
+
+3. Permissions
+
+BrewStation requests only the system permissions necessary to perform its core functionality, including disk access required for saving and restoring application-related data.
+
+4. Data Protection
+
+BrewStation does not use remote databases, cloud storage, analytics platforms, or third-party services that process user data.
+
+5. Vulnerability Reporting
+
+If you discover a security issue or vulnerability related to BrewStation, please report it by email so it can be reviewed and addressed promptly.
+
+6. Contact
+
+For security-related questions or reports, please contact: hreinssondev@gmail.com
