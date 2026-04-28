@@ -3,6 +3,7 @@
 
 >
 
+BrewStation!
 
 Control and view all your Homebrew apps in one place.
 Save you apps and all of their settings and configs with a snapshot and restore them with one click on another Mac or the same Mac
