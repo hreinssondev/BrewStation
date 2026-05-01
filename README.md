@@ -2,9 +2,9 @@
 
 >
 
-BrewStation!
+BrewStation !
 
-Get the benefits of Homebrew app and formulae management but with a simple to use GUI application Brewstation! Manage and view all your Homebrew apps in one place. Search all of Homebrew directly in the app. Save your apps (Homebrew or not) and all of their settings and config with the save snapshot and restore functionality and install them all again with a single click! On another Mac or the same Mac! 
+Skip the terminal and get all the benefits of using Homebrew with full app and formulae management with a simple to use GUI application. Manage and view all your Homebrew apps in one place. Search all of Homebrew directly in the app. Save your apps (Homebrew or not) and all of their settings and config with the built-in save snapshot and restore functionality and install them all again with a single click! On another Mac or the same Mac! Or just keep them for backup. Time Machine but only for your apps! 
 
 Uscases:
 1. Can be used as a Homebrew viewer and manager.
@@ -13,9 +13,9 @@ Uscases:
 
 Install via Homebrew: 
 
-brew tap hreinssondev/brewstation
+- brew tap hreinssondev/brewstation
 
-brew install --cask hreinssondev/brewstation/brewstation
+- brew install --cask hreinssondev/brewstation/brewstation
 
 
-If any issues arise or you have any questions or feature wishes, dont hesitate to contact me at hreinssondev@gmail.com
+If any issues arise or you have any questions or feature wishes! Dont hesitate to contact me at hreinssondev@gmail.com
