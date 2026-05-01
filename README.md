@@ -12,5 +12,11 @@ Uscases:
 2. Can be used as a App restore tool that backs up and saves app states (full snapshot) to be viewed and managed with the built-in snapshot library.
 3. Can be used as a New Mac setup tool, save app snapshots from one Mac and install and restore them (Fully!) with one click on another Mac.
 
+Install via Homebrew: 
+
+brew tap hreinssondev/brewstation
+
+brew install --cask hreinssondev/brewstation/brewstation
+
 
 If any issues arise or you have any questions or feature wishes, dont hesitate to contact me at hreinssondev@gmail.com
