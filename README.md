@@ -13,4 +13,4 @@ Uscases:
 3. Can be used as a New Mac setup tool, save app snapshots from one Mac and install and restore them (Fully!) with one click on another Mac.
 
 
-If any issues arise or you have any questions or feature wishes, dont hesitate to contact me at hreinssondev@gmail.com !
+If any issues arise or you have any questions or feature wishes, dont hesitate to contact me at hreinssondev@gmail.com
